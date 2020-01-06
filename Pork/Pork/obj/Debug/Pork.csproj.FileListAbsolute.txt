@@ -1,0 +1,6 @@
+C:\Users\34388\Desktop\Pork\Pork\bin\Debug\Pork.exe.config
+C:\Users\34388\Desktop\Pork\Pork\bin\Debug\Pork.exe
+C:\Users\34388\Desktop\Pork\Pork\bin\Debug\Pork.pdb
+C:\Users\34388\Desktop\Pork\Pork\obj\Debug\Pork.csprojResolveAssemblyReference.cache
+C:\Users\34388\Desktop\Pork\Pork\obj\Debug\Pork.exe
+C:\Users\34388\Desktop\Pork\Pork\obj\Debug\Pork.pdb
